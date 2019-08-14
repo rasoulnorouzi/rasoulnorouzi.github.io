@@ -4,5 +4,5 @@ Who am i?
 Who am i?
 Usually, i wear sneakers(Chuck Taylor converse), jeans and a minimal T-shirt.
 <div>
-  <img src="img/backbio.jpg">
+  <img src="img/aboutme.png">
 </div>
