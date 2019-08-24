@@ -4,7 +4,7 @@
 This is a place where you can follow the questions of my minds or maybe yours!
 <br/>
 <br/>
-for more information about me click on [this link](https://rasoulnorouzi.github.io/musketeers/).
+for more information about me click on <h2><a href="https://rasoulnorouzi.github.io/musketeers/">this link</a></h2>
 <br/>
 <br/>
 <img src="img/profile.jpg" width="300px" height="300px">
