@@ -2294,10 +2294,21 @@ body {
   color: #767676 !important;
 }
 .cid-rCT5hvCGnZ {
-  background-image: url("../../../assets/images/photo-1505562130589-9879683e72da-2000x1333.jpg");
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-rCT5hvCGnZ H1 {
-  color: #ffffff;
+  color: #2e2e2e;
+}
+.cid-rDzUpBFyTU {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rDzUpBFyTU .mbr-text,
+.cid-rDzUpBFyTU blockquote {
+  color: #767676;
 }
 .cid-rzRkEpJXxM {
   background-image: url("../../../assets/images/lavender-in-shop-2000x1333.jpg");
