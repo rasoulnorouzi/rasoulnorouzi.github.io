@@ -94,5 +94,5 @@ Help students who will start the writing of the final assignment confused what t
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> PUBLICATIONS </h2>
 
 #### Preprint (consider as writing sample)
-- Norouzi, Rasoul, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications (Pre-Print version Link)[/sources/CV/Data-Driven Ontology.pdf].
+- Norouzi, Rasoul, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications (Pre-Print version Link)[sources/CV/Data-Driven Ontology.pdf].
 
