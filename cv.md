@@ -108,4 +108,4 @@ Help students who will start the writing of the final assignment confused what t
 - Introduction to the math behind word2vec and its implementation with TensorFlow
 
 #### Master Thesis: A Data-Driven Ontology Building Method for Tourism Recommender Systems
-“A new method based on ontology and multilabel classifiers proposed and tried to solve these systems' cold start and matrix sparsity problems. Also, I show a slight advantage in predicting users' interests compared to collaborative filtering models”. [English-Summarized Version](../sources/CV/Recipe to Classify.pdf)
+“A new method based on ontology and multilabel classifiers proposed and tried to solve these systems' cold start and matrix sparsity problems. Also, I show a slight advantage in predicting users' interests compared to collaborative filtering models”. [English-Summarized Version](../sources/CV/Data-Driven Ontology.pdf)
