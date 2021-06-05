@@ -98,8 +98,12 @@ Help students who will start the writing of the final assignment confused what t
 
 #### Published
 - Seyed mohammad Reza Hosseini, Hamed Baziyad, **Rasoul Norouzi** and et.al "Mapping the 	intellectual structure of GIS-T ﬁeld (2008–2019) A dynamic co-word analysis." Scientometrics (2021), [Full Text](https://link.springer.com/article/10.1007%2Fs11192-020-03840-8)
-- Baziyad, Hamed, Rasoul Norouzi, and Amir Albadvi. "Mapping the Intellectual Structure of the Internet of Things (IoT) Field Based on Web Content: A Co-word Analysis." 4th International congress of Electrical, Computer and Mechanical Engineering. [Full text](https://www.researchgate.net/publication/343787997_Mapping_the_intellectual_structure_of_the_Internet_of_Things_IoT_field_based_on_web_content_a_co-word_analysis)
+- Baziyad, Hamed, **Rasoul Norouzi**, and Amir Albadvi. "Mapping the Intellectual Structure of the Internet of Things (IoT) Field Based on Web Content: A Co-word Analysis." 4th International congress of Electrical, Computer and Mechanical Engineering. [Full text](https://www.researchgate.net/publication/343787997_Mapping_the_intellectual_structure_of_the_Internet_of_Things_IoT_field_based_on_web_content_a_co-word_analysis)
 - Baziyad, Hamed, Saeed Shirazi, Seyed mohammad Reza Hosseini, and **Rasoul Norouzi**. "Mapping the intellectual structure of epidemiology with use of co-word analysis." Journal of Biostatistics and Epidemiology (2019). [Full Text](https://publish.kne-publishing.com/index.php/jbe/article/view/3618)
 
 #### Presentation
+- Recipe to Classify, Case Study: [DA 2016 Challenge](https://people.dsv.su.se/~isak-kar/IDA2016Challenge.txt)[Slides Here](../sources/CV/Recipe to Classify.pdf)
+- LSTMs and Standard recurrent Neural Networks Survey Report, get Perfect score, [Slides Here](../sources/CV/lstm.pdf)
+- Machine Learning Application in Biomarker Discovery for Cancer Detection, highly praised by the IT faculty, [Farsi Report](../sources/CV/9566221008seminarReport.pdf)
+- Introduction to the math behind word2vec and its implementation with TensorFlow
 
