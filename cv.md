@@ -94,7 +94,7 @@ Help students who will start the writing of the final assignment confused what t
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> PUBLICATIONS </h2>
 
 #### Preprint (consider as writing sample)
-- **Norouzi, Rasoul**, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications [Pre-Print version Link](../sources/CV/Data-Driven Ontology.pdf).
+- **Norouzi, Rasoul**, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications [Pre-Print version Link](../assets/files/MasterThesis_RasoulNorouzi.pdf).
 
 #### Published
 - Seyed mohammad Reza Hosseini, Hamed Baziyad, **Rasoul Norouzi** and et.al "Mapping the 	intellectual structure of GIS-T ﬁeld (2008–2019) A dynamic co-word analysis." Scientometrics (2021), [Full Text](https://link.springer.com/article/10.1007%2Fs11192-020-03840-8)
@@ -108,4 +108,4 @@ Help students who will start the writing of the final assignment confused what t
 - Introduction to the math behind word2vec and its implementation with TensorFlow
 
 #### Master Thesis: A Data-Driven Ontology Building Method for Tourism Recommender Systems
-“A new method based on ontology and multilabel classifiers proposed and tried to solve these systems' cold start and matrix sparsity problems. Also, I show a slight advantage in predicting users' interests compared to collaborative filtering models”. [English-Summarized Version](../sources/CV/Data-Driven Ontology.pdf)
+“A new method based on ontology and multilabel classifiers proposed and tried to solve these systems' cold start and matrix sparsity problems. Also, I show a slight advantage in predicting users' interests compared to collaborative filtering models”. [English-Summarized Version](../assets/files/MasterThesis_RasoulNorouzi.pdf)
