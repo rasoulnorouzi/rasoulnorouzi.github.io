@@ -1,7 +1,7 @@
 ---
 layout: page 
 ---
-#### E-mail: rslnorouzi@gmail.com
+#### E-mail: rslnorouzi@gmail.com ------------- [Download CV 📥](../sources/CV/rasoul_norouzi_cv.pdf)
 
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
 
