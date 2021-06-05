@@ -102,8 +102,10 @@ Help students who will start the writing of the final assignment confused what t
 - Baziyad, Hamed, Saeed Shirazi, Seyed mohammad Reza Hosseini, and **Rasoul Norouzi**. "Mapping the intellectual structure of epidemiology with use of co-word analysis." Journal of Biostatistics and Epidemiology (2019). [Full Text](https://publish.kne-publishing.com/index.php/jbe/article/view/3618)
 
 #### Presentation
-- Recipe to Classify, Case Study: [DA 2016 Challenge](https://people.dsv.su.se/~isak-kar/IDA2016Challenge.txt)[Slides Here](../sources/CV/Recipe to Classify.pdf)
+- Recipe to Classify, Case Study: [DA 2016 Challenge](https://people.dsv.su.se/~isak-kar/IDA2016Challenge.txt), [Slides Here](../sources/CV/Recipe to Classify.pdf)
 - LSTMs and Standard recurrent Neural Networks Survey Report, get Perfect score, [Slides Here](../sources/CV/lstm.pdf)
 - Machine Learning Application in Biomarker Discovery for Cancer Detection, highly praised by the IT faculty, [Farsi Report](../sources/CV/9566221008seminarReport.pdf)
 - Introduction to the math behind word2vec and its implementation with TensorFlow
 
+#### Master Thesis: A Data-Driven Ontology Building Method for Tourism Recommender Systems
+“A new method based on ontology and multilabel classifiers proposed and tried to solve these systems' cold start and matrix sparsity problems. Also, I show a slight advantage in predicting users' interests compared to collaborative filtering models”. [English-Summarized Version](../sources/CV/Recipe to Classify.pdf)
