@@ -96,3 +96,5 @@ Help students who will start the writing of the final assignment confused what t
 #### Preprint (consider as writing sample)
 - Norouzi, Rasoul, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications [Pre-Print version Link](../sources/CV/Data-Driven Ontology.pdf).
 
+#### Published
+- •	Seyed mohammad Reza Hosseini, Hamed Baziyad, Rasoul Norouzi and et.al "Mapping the 	intellectual structure of GIS-T ﬁeld (2008–2019) A dynamic co-word analysis." Scientometrics (2021), [Full Text](https://link.springer.com/article/10.1007%2Fs11192-020-03840-8)
