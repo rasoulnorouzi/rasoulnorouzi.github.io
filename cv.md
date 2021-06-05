@@ -40,6 +40,7 @@ Employed text mining techniques, extracted research clusters from Tarbiat Modarr
 
 ------------
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> Technical SKILLS </h2>
+
 #### Programming/Scripting Languages
 - Python(advance): Implementing machine learning Packages, working with the mathematical
 operations, loading and manipulating data, scrapping and crawling web data
