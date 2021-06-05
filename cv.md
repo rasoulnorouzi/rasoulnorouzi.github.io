@@ -56,6 +56,7 @@ Developing progressive web applications powered by Machine Learning algorithms
 - Git/GitHub: Clone, Fork, Push, Pull 
 - Latex: Paper Writing (Personal Choice: Overleaf)
 - Microsoft Office: Excel, Word, Power Point
+
 ------------
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> RESEARCH INTERESTS </h2>
 - Natural Language Processing and Text Mining applications in Social Network Analysis
