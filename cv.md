@@ -1,8 +1,8 @@
 ---
 layout: page 
 ---
-Rasoul Norouzi 
-E-mail: rslnorouzi@gmail.com
+### Rasoul Norouzi <br/> 
+#### E-mail: rslnorouzi@gmail.com
 
 <h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
 
