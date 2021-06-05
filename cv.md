@@ -65,3 +65,31 @@ Developing progressive web applications powered by Machine Learning algorithms
 - Word Embeddings and their effects on Downstream Tasks 
 - Recommender Systems 
 
+------------
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> Volunteer Experience </h2>
+
+#### (Dates 2018 – To Present) Data Mining Consultant at Tarbiat Modares University
+Help students who will start the writing of the final assignment confused what to do. for example:
+- Determine the title of the writing material
+- What will be written (the problem that will be raised)
+- Qualitative or quantitative research
+- Search for book references (Libraries sometimes don't exist)
+- And so forth.
+
+------------
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> Teaching Experience </h2>
+
+- Python Application in Data Science (Data Mining Course)
+- Web scraping and crawler bots with Beautifulsoup and Selenium (Workshop)
+- Teaching mathematics to high school students  
+
+------------
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> HOBBIES </h2>
+- Playing classical guitar and composing music
+- Web/WebApp Design 
+- Mountain Climbing
+- Reading novel books (crazy about Gabriel García Márquez)
+
+------------
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> PUBLICATIONS </h2>
+
