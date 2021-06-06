@@ -19,7 +19,7 @@ layout: page
 - Intro to Computer Science, Udacity.com, Free Participant 
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> WORK EXPERIENCE </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> WORK EXPERIENCE </h2>
 
 #### (2021-Present) Freelancer Software Engineering
 Together with a team, I am doing various projects, including sentimental analysis, topic modeling, building web applications powered by AI, Crawling and analyzing data from social networks, designing deep learning models with flask backend and API.
