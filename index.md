@@ -5,7 +5,7 @@ layout: page
   <img src="sources/images/profile.jpg" width="350" height="350" alt="Rasoul Norouzi Profile Picture">
 </div>
 
-<b style="color:rgb(247, 22, 105);">About Me: </b> I work mainly on recommender systems, text datasets, and document clustering. Inside me, there is a mysterious connection to the math behind the machine learning algorithms. Curiosity pushed me to learner algorithms and AI world, and as I found my passion about it, I have been trying to know how they work and how they will be better.<br/>
+<b style="color:rgb(135,135,235);">About Me: </b> I work mainly on recommender systems, text datasets, and document clustering. Inside me, there is a mysterious connection to the math behind the machine learning algorithms. Curiosity pushed me to learner algorithms and AI world, and as I found my passion about it, I have been trying to know how they work and how they will be better.<br/>
 
 These days, in addition to research, I have started a journey to learn how to deploy machine learning models in web applications. To this end, react.js, flask, node.js are my new friends!<br/>
 
