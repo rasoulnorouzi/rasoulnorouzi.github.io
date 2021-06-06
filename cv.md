@@ -3,7 +3,7 @@ layout: page
 ---
 #### E-mail: rslnorouzi@gmail.com ------------- [Download CV 📥](../sources/CV/rasoul_norouzi_cv.pdf)
 
-<h2 style="color:rgb(118, 109, 253);text-align:center;"> EDUCATION </h2>
+<h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
 
 #### M.Sc. By Research, Information Technology (IT), Tarbiat Modares University of Tehran, Iran 
 - **Thesis Title:** A Data-Driven Ontology Building Method for Tourism Recommender Systems
