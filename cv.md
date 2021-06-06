@@ -3,7 +3,7 @@ layout: page
 ---
 #### E-mail: rslnorouzi@gmail.com ------------- [Download CV 📥](../sources/CV/rasoul_norouzi_cv.pdf)
 
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> EDUCATION </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> EDUCATION </h2>
 
 #### M.Sc. By Research, Information Technology (IT), Tarbiat Modares University of Tehran, Iran 
 - **Thesis Title:** A Data-Driven Ontology Building Method for Tourism Recommender Systems
@@ -33,14 +33,14 @@ As a data scientist raised the effectiveness of BabyPro company marketing, comme
 Employed text mining techniques, extracted research clusters from Tarbiat Modarres University based on 5,000 Papers, and compared them with the research fields they intend to carry out in their future studies. also examined the research areas of interest of the professors and their relevance.
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> HONORS & AWARDS </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> HONORS & AWARDS </h2>
 - M.Sc. Thesis received and accepted with perfect score (18 of 18)
 - Top-ranked among more than 10000 participants in national exam
 - The best research report for the artificial neural network design course and getting a full grade. The Director of Information Technology Group praised the research.
 - Earned the perfect score for proposing a business plan in Health information technology Domain and presenting it in a pitch deck event
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> Technical SKILLS </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> Technical SKILLS </h2>
 
 #### Programming/Scripting Languages
 - Python(advance): Implementing machine learning Packages, working with the mathematica operations, loading and manipulating data, scrapping and crawling web data
@@ -59,14 +59,14 @@ Employed text mining techniques, extracted research clusters from Tarbiat Modarr
 - Microsoft Office: Excel, Word, Power Point
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> RESEARCH INTERESTS </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> RESEARCH INTERESTS </h2>
 - Natural Language Processing and Text Mining applications in Social Network Analysis
 - Machine Learning and Knowledge Discovery Application in Decision Making, Special in Clinical Process
 - Word Embeddings and their effects on Downstream Tasks 
 - Recommender Systems 
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> Volunteer Experience </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> Volunteer Experience </h2>
 
 #### (Dates 2018 – To Present) Data Mining Consultant at Tarbiat Modares University
 Help students who will start the writing of the final assignment confused what to do. for example:
@@ -77,21 +77,21 @@ Help students who will start the writing of the final assignment confused what t
 - And so forth.
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> Teaching Experience </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> Teaching Experience </h2>
 
 - Python Application in Data Science (Data Mining Course)
 - Web scraping and crawler bots with Beautifulsoup and Selenium (Workshop)
 - Teaching mathematics to high school students  
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> HOBBIES </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> HOBBIES </h2>
 - Playing classical guitar and composing music
 - Web/WebApp Design 
 - Mountain Climbing
 - Reading novel books (crazy about Gabriel García Márquez)
 
 ------------
-<h2 style="color:rgb(247, 22, 105);text-align:center;"> PUBLICATIONS </h2>
+<h2 style="color:rgb(131, 135, 235);text-align:center;"> PUBLICATIONS </h2>
 
 #### Preprint (consider as writing sample)
 - **Norouzi, Rasoul**, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications [Pre-Print version Link](../assets/files/MasterThesis_RasoulNorouzi.pdf).
