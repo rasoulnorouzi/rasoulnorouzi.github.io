@@ -93,7 +93,7 @@ Help students who will start the writing of the final assignment confused what t
 ------------
 <h2 style="color:rgb(131, 135, 235);text-align:center;"> PUBLICATIONS </h2>
 
-#### Preprint (consider as writing sample)
+#### Preprint (<span style="color:rgb(135, 135, 235);"> consider as writing sample </span>)
 - **Norouzi, Rasoul**, Hamed Baziyad, Elham Akhondzadeh, and Amir Albadvi. "A Data-Driven Ontology Building Method for Tourism Recommender Systems", submitted to Expert Systems with Applications [Pre-Print version Link](../assets/files/MasterThesis_RasoulNorouzi.pdf).
 
 #### Published Papers
