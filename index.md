@@ -9,7 +9,7 @@ layout: page
 
 These days, in addition to research, I have started a journey to learn how to deploy machine learning models in web applications. To this end, react.js, flask, node.js are my new friends!<br/>
 
-Me in a nutshell: A book addict person <br/>
+Me in a nutshell: Book addict <br/>
 currently, I am engrossed in these two books:
 - [Speech and Language Processing](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210)
 - [Natural Language Processing with PyTorch](https://www.amazon.com/Natural-Language-Processing-PyTorch-Applications/dp/1491978236/ref=pd_sbs_18/145-9588523-3399417?pd_rd_w=iaFuT&pf_rd_p=180628c6-6f13-4dbf-9213-f09cdedc7815&pf_rd_r=RQ1PJAF52HZ2HHHHV986&pd_rd_r=6db67402-d2d9-4145-94b8-ea82f5fd237b&pd_rd_wg=UCVxD&pd_rd_i=1491978236&psc=1)
