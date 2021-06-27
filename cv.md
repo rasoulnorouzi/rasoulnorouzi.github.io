@@ -8,7 +8,7 @@ layout: page
 #### Get in touch: 
 rslnorouzi@gmail.com  
   
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ rslnorouzi@gmail.com
     <title>CV</title>
 <!--     <link rel="stylesheet" href="CV.css"> -->
 </head>
-<body>
+<body style="background-color:white;">
 <h1 align="center">Rasoul Norouzi, M.Sc., Ing.</h1>
 <h2 align="center"><a href="https://rasoulnorouzi.github.io/assets/files/rasoul_norouzi_cv.pdf">DOWNLOAD CV</a></h2>
 <h4>E-mail: rslnorouzi@gmail.com</h4> 	
@@ -114,5 +114,7 @@ rslnorouzi@gmail.com
 </ul>
 <h2 align='center'>REFERENCES</h2>
 <p>Available upon request</p>
+  
 </body>
+  
 </html>
