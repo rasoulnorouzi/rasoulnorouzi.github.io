@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：01-04-2023 22:09:16
+# 创建时间：01-04-2023 22:14:16
 # 使用模版：V2RaySE 默认模版
-# 节点数量：48
+# 节点数量：37
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -25,37 +25,26 @@ proxies:
   - {"name":"رسول_2","type":"vmess","server":"104.20.205.19","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
   - {"name":"رسول_3","type":"vmess","server":"104.17.71.69","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
   - {"name":"رسول_آلمان_1","type":"trojan","server":"104.17.120.65","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_2","type":"vless","server":"104.17.120.65","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_4","type":"vless","server":"104.254.140.92","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_3","type":"vless","server":"104.16.96.87","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_5","type":"vless","server":"a.sandbad.live","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_6","type":"trojan","server":"a.sandbad.live","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_7","type":"vmess","server":"188.244.122.20","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_آلمان_4","type":"vmess","server":"104.17.120.65","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_8","type":"vmess","server":"104.20.120.49","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_آلمان_5","type":"trojan","server":"104.16.96.87","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_9","type":"vmess","server":"141.101.121.154","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_آلمان_6","type":"trojan","server":"b.sandbad.live","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_10","type":"vmess","server":"104.19.203.37","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_11","type":"trojan","server":"141.101.121.154","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_12","type":"trojan","server":"104.19.203.37","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_13","type":"vless","server":"162.159.57.39","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_14","type":"trojan","server":"104.20.120.49","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_15","type":"vless","server":"104.20.120.49","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_16","type":"trojan","server":"162.159.57.39","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_17","type":"vmess","server":"185.201.139.214","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_آلمان_7","type":"vmess","server":"b.sandbad.live","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_18","type":"trojan","server":"104.24.241.124","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_19","type":"vmess","server":"a.sandbad.live","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_20","type":"vless","server":"104.24.241.124","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_21","type":"vmess","server":"198.41.212.29","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_22","type":"vmess","server":"104.24.241.124","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_23","type":"vmess","server":"162.159.57.39","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_24","type":"vless","server":"141.101.121.154","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_25","type":"vless","server":"104.19.203.37","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_26","type":"vless","server":"203.34.80.88","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_آلمان_8","type":"vless","server":"b.sandbad.live","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_9","type":"vmess","server":"104.16.96.87","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_4","type":"trojan","server":"a.sandbad.live","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_5","type":"vmess","server":"188.244.122.20","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_2","type":"vmess","server":"104.17.120.65","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_6","type":"vmess","server":"104.20.120.49","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_3","type":"trojan","server":"104.16.96.87","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_7","type":"vmess","server":"141.101.121.154","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_4","type":"trojan","server":"b.sandbad.live","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_8","type":"vmess","server":"104.19.203.37","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_9","type":"trojan","server":"141.101.121.154","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_10","type":"trojan","server":"104.19.203.37","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_11","type":"trojan","server":"104.20.120.49","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_12","type":"trojan","server":"162.159.57.39","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_13","type":"vmess","server":"185.201.139.214","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_5","type":"vmess","server":"b.sandbad.live","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_14","type":"trojan","server":"104.24.241.124","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_15","type":"vmess","server":"a.sandbad.live","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_16","type":"vmess","server":"198.41.212.29","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_17","type":"vmess","server":"104.24.241.124","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_18","type":"vmess","server":"162.159.57.39","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_6","type":"vmess","server":"104.16.96.87","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
   - {"name":"🏁RELAY-104.21.53.66-2156","type":"vmess","server":"104.21.53.66","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden.739256.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"woiden.739256.xyz"}}}
   - {"name":"🏁RELAY-104.21.53.66-1453","type":"vmess","server":"woiden.739256.xyz","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden.739256.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"woiden.739256.xyz"}}}
   - {"name":"🇺🇸US(AzadNet.t.me)_1","type":"vmess","server":"ny1.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker"}}
@@ -79,37 +68,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -133,37 +111,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -187,37 +154,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -240,37 +196,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -293,37 +238,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -346,37 +280,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
@@ -416,37 +339,26 @@ proxy-groups:
       - رسول_2
       - رسول_3
       - رسول_آلمان_1
-      - رسول_آلمان_2
       - رسول_4
-      - رسول_آلمان_3
       - رسول_5
+      - رسول_آلمان_2
       - رسول_6
+      - رسول_آلمان_3
       - رسول_7
       - رسول_آلمان_4
       - رسول_8
-      - رسول_آلمان_5
       - رسول_9
-      - رسول_آلمان_6
       - رسول_10
       - رسول_11
       - رسول_12
       - رسول_13
+      - رسول_آلمان_5
       - رسول_14
       - رسول_15
       - رسول_16
       - رسول_17
-      - رسول_آلمان_7
       - رسول_18
-      - رسول_19
-      - رسول_20
-      - رسول_21
-      - رسول_22
-      - رسول_23
-      - رسول_24
-      - رسول_25
-      - رسول_26
-      - رسول_آلمان_8
-      - رسول_آلمان_9
+      - رسول_آلمان_6
       - 🏁RELAY-104.21.53.66-2156
       - 🏁RELAY-104.21.53.66-1453
       - 🇺🇸US(AzadNet.t.me)_1
