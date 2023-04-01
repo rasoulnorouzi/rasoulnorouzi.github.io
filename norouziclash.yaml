@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：24-03-2023 17:54:34
+# 创建时间：01-04-2023 22:09:16
 # 使用模版：V2RaySE 默认模版
-# 节点数量：53
+# 节点数量：48
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,410 +21,375 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"f_ssh_tcp","type":"ss","server":"170.64.190.72","port":46156,"password":"t4xqq0TZ5F","cipher":"aes-256-gcm"}
-  - {"name":"f_vmess_grpc","type":"vmess","server":"170.64.190.72","port":41397,"cipher":"auto","uuid":"e867c95f-c33d-4637-cd8f-683b0d5538b4","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"grpc","grpc-opts":{"grpc-service-name":"xzsd","grpc-mode":"none"}}
-  - {"name":"f_vmess_tcp","type":"vmess","server":"170.64.190.72","port":38214,"cipher":"auto","uuid":"a285b0c8-358e-4526-e4ca-ec5313c01323","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
-  - {"name":"f_vmess_ws","type":"vmess","server":"170.64.190.72","port":32568,"cipher":"auto","uuid":"b67731ae-9943-4eed-d93e-07a780ac9e6c","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1","type":"trojan","server":"home.rnikjeh.shop","port":443,"udp":true,"password":"bd445e3c-99d3-41bd-b578-01c81fd55f50","sni":"liam.rnikjeh.shop","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2","type":"trojan","server":"liam.rnikjeh.shop","port":443,"udp":true,"password":"bd445e3c-99d3-41bd-b578-01c81fd55f50","sni":"liam.rnikjeh.shop","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1","type":"vmess","server":"home.rnikjeh.shop","port":443,"cipher":"auto","uuid":"bd445e3c-99d3-41bd-b578-01c81fd55f50","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"liam.rnikjeh.shop","network":"ws","ws-opts":{"path":"/chdgvws","headers":{"host":"liam.rnikjeh.shop"}}}
-  - {"name":"liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2","type":"vmess","server":"liam.rnikjeh.shop","port":443,"cipher":"auto","uuid":"bd445e3c-99d3-41bd-b578-01c81fd55f50","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"liam.rnikjeh.shop","network":"ws","ws-opts":{"path":"/chdgvws","headers":{"host":"liam.rnikjeh.shop"}}}
-  - {"name":"رسول_آلمان_1","type":"vmess","server":"b.sandbad.live","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_2","type":"trojan","server":"b.sandbad.live","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_3","type":"trojan","server":"104.17.120.65","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_1","type":"vmess","server":"104.20.132.50","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_2","type":"vmess","server":"104.20.205.19","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_3","type":"vmess","server":"104.17.71.69","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_1","type":"trojan","server":"104.17.120.65","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_آلمان_2","type":"vless","server":"104.17.120.65","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_4","type":"vless","server":"104.254.140.92","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_آلمان_3","type":"vless","server":"104.16.96.87","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_5","type":"vless","server":"a.sandbad.live","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_6","type":"trojan","server":"a.sandbad.live","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_7","type":"vmess","server":"188.244.122.20","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
   - {"name":"رسول_آلمان_4","type":"vmess","server":"104.17.120.65","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_8","type":"vmess","server":"104.20.120.49","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
   - {"name":"رسول_آلمان_5","type":"trojan","server":"104.16.96.87","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_آلمان_6","type":"vmess","server":"104.16.96.87","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
-  - {"name":"رسول_1","type":"vmess","server":"a.sandbad.live","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_2","type":"trojan","server":"a.sandbad.live","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_3","type":"vmess","server":"104.20.120.49","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_4","type":"vmess","server":"141.101.121.154","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_5","type":"trojan","server":"104.24.241.124","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_6","type":"vmess","server":"104.24.241.124","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_7","type":"trojan","server":"104.20.120.49","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_8","type":"trojan","server":"104.19.203.37","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_9","type":"vmess","server":"104.19.203.37","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_10","type":"trojan","server":"141.101.121.154","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"رسول_11","type":"trojan","server":"162.159.57.39","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
-  - {"name":"🏁RELAY-104.21.64.41-0166","type":"vmess","server":"quran-audio5.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quran-audio5.xyz"}}}
+  - {"name":"رسول_9","type":"vmess","server":"141.101.121.154","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_6","type":"trojan","server":"b.sandbad.live","port":2087,"udp":true,"password":"wnT8s7y8e7A0Prtn8jTULA","sni":"shaily.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_10","type":"vmess","server":"104.19.203.37","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_11","type":"trojan","server":"141.101.121.154","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_12","type":"trojan","server":"104.19.203.37","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_13","type":"vless","server":"162.159.57.39","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_14","type":"trojan","server":"104.20.120.49","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_15","type":"vless","server":"104.20.120.49","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_16","type":"trojan","server":"162.159.57.39","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_17","type":"vmess","server":"185.201.139.214","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_7","type":"vmess","server":"b.sandbad.live","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_18","type":"trojan","server":"104.24.241.124","port":2087,"udp":true,"password":"QAcSKwt7mnHyVy8TKo1pqw","sni":"sogand.sandbad.live","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_19","type":"vmess","server":"a.sandbad.live","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_20","type":"vless","server":"104.24.241.124","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_21","type":"vmess","server":"198.41.212.29","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_22","type":"vmess","server":"104.24.241.124","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_23","type":"vmess","server":"162.159.57.39","port":2053,"cipher":"auto","uuid":"4b7ac57c-efbd-4a12-a06e-a24640f320fa","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_24","type":"vless","server":"141.101.121.154","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_25","type":"vless","server":"104.19.203.37","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_26","type":"vless","server":"203.34.80.88","port":2083,"uuid":"9c3a0c29-31f4-40a2-8721-158dd6bc4641","tls":true,"servername":"sogand.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"sogand.sandbad.live"}}}
+  - {"name":"رسول_آلمان_8","type":"vless","server":"b.sandbad.live","port":2083,"uuid":"bffba3ab-e2cb-4885-a18c-984bd635d70e","tls":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
+  - {"name":"رسول_آلمان_9","type":"vmess","server":"104.16.96.87","port":2053,"cipher":"auto","uuid":"a7ef78fc-145e-48de-9dc3-032644ca8d2a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"shaily.sandbad.live","network":"ws","ws-opts":{"path":"/","headers":{"host":"shaily.sandbad.live"}}}
   - {"name":"🏁RELAY-104.21.53.66-2156","type":"vmess","server":"104.21.53.66","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden.739256.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"woiden.739256.xyz"}}}
-  - {"name":"🏁RELAY-104.21.42.90-1603","type":"vmess","server":"d.pgypgykmoljklj.xyz","port":443,"cipher":"auto","uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/mR17oBKzZ7","headers":{"host":"d.pgypgykmoljklj.xyz"}}}
-  - {"name":"🏁RELAY-104.21.26.52-0152","type":"vmess","server":"quranweb3.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb3.xyz"}}}
-  - {"name":"🇹🇼TW-61.230.117.57-0113","type":"trojan","server":"azgy001.xibai6.top","port":20790,"udp":true,"password":"78af6d6d-6de7-3a1f-a969-c39077fb47bf","sni":"ssl.ssl12.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🏁RELAY-104.21.42.90-0140","type":"vmess","server":"d.pgypgykmoljklj.xyz","port":443,"cipher":"auto","uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"d.pgypgykmoljklj.xyz","network":"ws","ws-opts":{"path":"/mR17oBKzZ7","headers":{"host":"d.pgypgykmoljklj.xyz"}}}
-  - {"name":"🏁RELAY-104.21.4.248-0207","type":"vmess","server":"holyquran11.store","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"holyquran11.store"}}}
-  - {"name":"🇳🇱NL-194.61.120.36-0169","type":"vmess","server":"194.61.120.36","port":80,"cipher":"auto","uuid":"b69ad6e0-6953-4eaa-c48e-be38d15f312f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🏁RELAY-104.21.67.71-0268","type":"vmess","server":"quranweb7.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb7.xyz"}}}
-  - {"name":"🇰🇷KR-152.67.223.90-0294","type":"trojan","server":"oracle.blowm1k.club","port":443,"udp":true,"password":"a98f320a-f8c5-5bc0-be60-1bf4b7be9498","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇷🇺RU-45.67.215.117-1499","type":"vmess","server":"doinb.ml","port":443,"cipher":"auto","uuid":"7f6fdc53-27d0-4ac8-8440-715992b7aab1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/dsfsdf","headers":{"host":"sg1.doinb.tk"}}}
-  - {"name":"🏁RELAY-104.21.92.136-0138","type":"vmess","server":"quran-audio1.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quran-audio1.xyz"}}}
-  - {"name":"🏁RELAY-172.67.162.96-0277","type":"vmess","server":"quranweb10.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb10.xyz"}}}
-  - {"name":"🏁RELAY-172.67.159.89-0157","type":"vmess","server":"holyquran1.store","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"holyquran1.store"}}}
-  - {"name":"🇺🇸US-148.59.74.236-0237","type":"trojan","server":"148.59.74.236","port":443,"udp":true,"password":"2ea5fc44-bd38-4fb0-a9b9-88c83fc56622","sni":"4-193-105-141.nhost.00cdn.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US-148.59.74.200-0055","type":"trojan","server":"148.59.74.200","port":443,"udp":true,"password":"2ea5fc44-bd38-4fb0-a9b9-88c83fc56622","sni":"4-193-105-141.nhost.00cdn.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇭🇰HK-223.19.177.145-0270","type":"vmess","server":"223.19.177.145","port":21052,"cipher":"auto","uuid":"b1d6376f-1dfe-44d2-8ee4-cbf28cb01087","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇹🇼TW-61.230.117.57-2230","type":"trojan","server":"azgy001.xibai6.top","port":20784,"udp":true,"password":"78af6d6d-6de7-3a1f-a969-c39077fb47bf","sni":"ssl.ssl12.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇱NL-194.61.120.36-2440","type":"vmess","server":"amir.test989811.xyz","port":80,"cipher":"auto","uuid":"b69ad6e0-6953-4eaa-c48e-be38d15f312f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"amir.test989811.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"amir.test989811.xyz"}}}
-  - {"name":"🏁RELAY-104.21.10.157-0248","type":"vmess","server":"quranweb34.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb34.xyz"}}}
-  - {"name":"🏁RELAY-172.66.44.197-1329","type":"vmess","server":"172.66.44.197","port":443,"cipher":"auto","uuid":"fa4cb529-3ac9-4268-bb04-ed4253813508","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"d.pgypgykmoljklj.xyz","network":"ws","ws-opts":{"path":"/mR17oBKzZ7","headers":{"host":"d.pgypgykmoljklj.xyz"}}}
-  - {"name":"Relay_🏁ZZ-🇷🇺RU_132","type":"vmess","server":"mtnx.ircf.space","port":2096,"cipher":"auto","uuid":"4a92ff9c-7940-4dba-e5de-22df9c20c798","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/nodejs","headers":{"host":"social.progbyrazyar.ir"}}}
-  - {"name":"🏁RELAY-45.12.30.192-2153","type":"vmess","server":"45.12.30.192","port":443,"cipher":"auto","uuid":"EB176736-29D0-484E-8464-28547013A162","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"Dusseldorf.kotick.site","network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Dusseldorf.kotick.site"}}}
-  - {"name":"🏁RELAY-104.21.46.9-1640","type":"vmess","server":"quranweb22.xyz","port":443,"cipher":"auto","uuid":"8bbd91fe-a30b-4e29-bfc7-c28a44c0cb8f","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/current_time","headers":{"host":"quranweb22.xyz"}}}
-  - {"name":"🇺🇸US-47.251.0.253-1582","type":"vmess","server":"cdn.wuki.moe","port":80,"cipher":"auto","uuid":"747695c7-1ed8-44d1-a1a0-6b1b162748ca","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/sbga?ed=2048","headers":{"host":"woi-eu7.misakano.ml"}}}
-  - {"name":"🏁RELAY-45.12.30.192-0117","type":"vmess","server":"45.12.30.192","port":443,"cipher":"auto","uuid":"EB176736-29D0-484E-8464-28547013A162","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"Kansas.kotick.site","network":"ws","ws-opts":{"path":"/speedtest","headers":{"host":"Kansas.kotick.site"}}}
-  - {"name":"🏁RELAY-172.66.41.99-1433","type":"vmess","server":"172.66.41.99","port":443,"cipher":"auto","uuid":"44bab30b-d1da-40b4-b65d-e0a3a98c0de6","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"ss.239000.xyz","network":"ws","ws-opts":{"path":"/vmessws","headers":{"host":"ss.239000.xyz"}}}
-  - {"name":"🏁RELAY-104.21.53.66-1453","type":"vmess","server":"woiden.739256.xyz","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"woiden.739256.xyz"}}}
+  - {"name":"🏁RELAY-104.21.53.66-1453","type":"vmess","server":"woiden.739256.xyz","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"woiden.739256.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"woiden.739256.xyz"}}}
+  - {"name":"🇺🇸US(AzadNet.t.me)_1","type":"vmess","server":"ny1.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/shirker"}}
+  - {"name":"🏁RELAY-172.67.84.177-5481","type":"vmess","server":"cf-lt.sharecentre.online","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"dp3.scproxy.top","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"dp3.scproxy.top"}}}
+  - {"name":"🏁RELAY-172.67.201.204-2334_1","type":"vmess","server":"lv3.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"lv3.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv3.sharecentrepro.org"}}}
+  - {"name":"🏁RELAY-172.67.84.177-0567_1","type":"vmess","server":"cf-lt.sharecentre.online","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"lv3.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv3.sharecentrepro.org"}}}
+  - {"name":"🏁RELAY-172.67.201.204-0212_1","type":"vmess","server":"ny1.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"ny1.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"ny1.sharecentrepro.org"}}}
+  - {"name":"🇺🇸US(AzadNet.t.me)_2","type":"vmess","server":"77.v2ray1.xyz","port":443,"cipher":"auto","uuid":"17b2a313-37a0-4945-a8e4-e63375506b4a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/A2DJOPFT"}}
+  - {"name":"🏁RELAY-172.67.201.204-2334_2","type":"vmess","server":"lv3.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"lv3.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv3.sharecentrepro.org"}}}
+  - {"name":"🏁RELAY-172.67.206.83-0565","type":"vmess","server":"cf-lt.sharecentre.online","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hk-hytron.ilovescp.com","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"hk-hytron.ilovescp.com"}}}
+  - {"name":"🏁RELAY-172.67.84.177-0567_2","type":"vmess","server":"cf-lt.sharecentre.online","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"lv3.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"lv3.sharecentrepro.org"}}}
+  - {"name":"https://t.me/BYEBYEFILTER","type":"vmess","server":"woiden.739256.xyz","port":443,"cipher":"auto","uuid":"d05d144a-71a9-4720-8c4e-565257953069","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🏁RELAY-172.67.201.204-0212_2","type":"vmess","server":"ny1.sharecentrepro.org","port":443,"cipher":"auto","uuid":"823c31da-701f-483d-b36e-896e5cf0987a","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"ny1.sharecentrepro.org","network":"ws","ws-opts":{"path":"/shirker","headers":{"host":"ny1.sharecentrepro.org"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -447,59 +412,54 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - f_ssh_tcp
-      - f_vmess_grpc
-      - f_vmess_tcp
-      - f_vmess_ws
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_Trojan_2
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_1
-      - liam.rnikjeh.shop_bd445e3c-99d3-41bd-b578-01c81fd55f50_2
-      - رسول_آلمان_1
-      - رسول_آلمان_2
-      - رسول_آلمان_3
-      - رسول_آلمان_4
-      - رسول_آلمان_5
-      - رسول_آلمان_6
       - رسول_1
       - رسول_2
       - رسول_3
+      - رسول_آلمان_1
+      - رسول_آلمان_2
       - رسول_4
+      - رسول_آلمان_3
       - رسول_5
       - رسول_6
       - رسول_7
+      - رسول_آلمان_4
       - رسول_8
+      - رسول_آلمان_5
       - رسول_9
+      - رسول_آلمان_6
       - رسول_10
       - رسول_11
-      - 🏁RELAY-104.21.64.41-0166
+      - رسول_12
+      - رسول_13
+      - رسول_14
+      - رسول_15
+      - رسول_16
+      - رسول_17
+      - رسول_آلمان_7
+      - رسول_18
+      - رسول_19
+      - رسول_20
+      - رسول_21
+      - رسول_22
+      - رسول_23
+      - رسول_24
+      - رسول_25
+      - رسول_26
+      - رسول_آلمان_8
+      - رسول_آلمان_9
       - 🏁RELAY-104.21.53.66-2156
-      - 🏁RELAY-104.21.42.90-1603
-      - 🏁RELAY-104.21.26.52-0152
-      - 🇹🇼TW-61.230.117.57-0113
-      - 🏁RELAY-104.21.42.90-0140
-      - 🏁RELAY-104.21.4.248-0207
-      - 🇳🇱NL-194.61.120.36-0169
-      - 🏁RELAY-104.21.67.71-0268
-      - 🇰🇷KR-152.67.223.90-0294
-      - 🇷🇺RU-45.67.215.117-1499
-      - 🏁RELAY-104.21.92.136-0138
-      - 🏁RELAY-172.67.162.96-0277
-      - 🏁RELAY-172.67.159.89-0157
-      - 🇺🇸US-148.59.74.236-0237
-      - 🇺🇸US-148.59.74.200-0055
-      - 🇭🇰HK-223.19.177.145-0270
-      - 🇹🇼TW-61.230.117.57-2230
-      - 🇳🇱NL-194.61.120.36-2440
-      - 🏁RELAY-104.21.10.157-0248
-      - 🏁RELAY-172.66.44.197-1329
-      - Relay_🏁ZZ-🇷🇺RU_132
-      - 🏁RELAY-45.12.30.192-2153
-      - 🏁RELAY-104.21.46.9-1640
-      - 🇺🇸US-47.251.0.253-1582
-      - 🏁RELAY-45.12.30.192-0117
-      - 🏁RELAY-172.66.41.99-1433
       - 🏁RELAY-104.21.53.66-1453
+      - 🇺🇸US(AzadNet.t.me)_1
+      - 🏁RELAY-172.67.84.177-5481
+      - 🏁RELAY-172.67.201.204-2334_1
+      - 🏁RELAY-172.67.84.177-0567_1
+      - 🏁RELAY-172.67.201.204-0212_1
+      - 🇺🇸US(AzadNet.t.me)_2
+      - 🏁RELAY-172.67.201.204-2334_2
+      - 🏁RELAY-172.67.206.83-0565
+      - 🏁RELAY-172.67.84.177-0567_2
+      - https://t.me/BYEBYEFILTER
+      - 🏁RELAY-172.67.201.204-0212_2
 
 rules:
 # 本地/局域网地址
