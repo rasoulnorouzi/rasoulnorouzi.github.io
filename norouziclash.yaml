@@ -21,7 +21,7 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"رسول_اوراکل_1","type":"vmess","server":"e.sandbad.live","port":443,"cipher":"9f150459-99e0-4dc8-8d74-d7ab31eff044","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"e.sandbad.live","network":"ws","ws-opts":{"path":"/DXUjPIQMteWqysLeEhc6","headers":{"host":"e.sandbad.live"}}}
+  - {"name":"رسول_اوراکل_1","type":"vmess","server":"e.sandbad.live","port":443,"cipher":"chacha20-poly1305","uuid":"9f150459-99e0-4dc8-8d74-d7ab31eff044","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"e.sandbad.live","network":"ws","ws-opts":{"path":"/DXUjPIQMteWqysLeEhc6","headers":{"host":"e.sandbad.live"}}}
   - {"name":"رسول_اوراکل_2","type":"vmess","server":"e.sandbad.live","port":443,"cipher":"chacha20-poly1305","uuid":"9f150459-99e0-4dc8-8d74-d7ab31eff044","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"e.sandbad.live","network":"grpc","grpc-opts":{"grpc-service-name":"DXUjPIQMteWqyxBRp04t99","grpc-mode":"multi"}}
   - {"name":"رسول_اوراکل_3","type":"vmess","server":"e.sandbad.live","port":443,"cipher":"chacha20-poly1305","uuid":"9f150459-99e0-4dc8-8d74-d7ab31eff044","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"e.sandbad.live","network":"grpc","grpc-opts":{"grpc-service-name":"DXUjPIQMteWqyxBRp04t99","grpc-mode":"multi"}}
   - {"name":"رسول_اوراکل_4","type":"vmess","server":"e.sandbad.live","port":443,"cipher":"chacha20-poly1305","uuid":"9f150459-99e0-4dc8-8d74-d7ab31eff044","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"e.sandbad.live","network":"ws","ws-opts":{"path":"/DXUjPIQMteWqysLeEhc6","headers":{"host":"e.sandbad.live"}}}
