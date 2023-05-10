@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：10-05-2023 21:19:27
+# 创建时间：10-05-2023 21:21:03
 # 使用模版：V2RaySE 默认模版
-# 节点数量：108
+# 节点数量：101
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -21,6 +21,53 @@ dns:
     - tls://dns.google:853
 
 proxies:
+  - {"name":"Relay_🇺🇸US-🇸🇬SG_248","type":"trojan","server":"sg.stablize.top","port":443,"udp":true,"password":"a3740de6-74fc-4ab6-bc85-92d19402257c","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US_249","type":"trojan","server":"aujs.stablize.top","port":443,"udp":true,"password":"c0cf56d4-08a7-4436-9e6a-3feebe142706","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇯🇵JP_250","type":"trojan","server":"vpnhat.stablize.top","port":443,"udp":true,"password":"de2804e0-b99d-47fa-9828-62f8247c8335","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇯🇵JP_251","type":"trojan","server":"fschk.fscloud123456789.com","port":443,"udp":true,"password":"38541d74-6ffd-4352-988d-715ee989947c","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇸🇬SG_261","type":"trojan","server":"fscsg.fscloud123456789.com","port":443,"udp":true,"password":"ed19b239-8e49-4b82-979a-24b84fa7b173","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳CN-123.159.205.114-1338","type":"trojan","server":"zz6.91js.pw","port":10051,"udp":true,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇮🇩ID-103.253.24.216-1366","type":"trojan","server":"sg3-trojan.bonds.id","port":443,"udp":true,"password":"4c7985e0-79e8-11eb-b8d3-1239d0255272","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-1376","type":"trojan","server":"dejs.stablize.top","port":443,"udp":true,"password":"80151fd0-950a-4dda-a98a-6d24c6936dbc","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-1386","type":"trojan","server":"ap.stablize.top","port":443,"udp":true,"password":"10f94506-9bf9-4dbb-9542-3ff13893b190","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US-154.17.23.245-1392","type":"trojan","server":"listener.freetrade.link","port":443,"udp":true,"password":"Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-1399","type":"trojan","server":"in.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-1400","type":"trojan","server":"jp.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵JP-185.212.56.168-1403","type":"trojan","server":"tw.softbank.mjj-home.com","port":443,"udp":true,"password":"share.mjj-home.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇳🇱NL-147.78.240.92-1759","type":"trojan","server":"tj2.dalazhi.eu.org","port":443,"udp":true,"password":"23fd9f2e-7ff8-4d98-8099-8acce9499433","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-1777","type":"trojan","server":"uk.stablize.top","port":443,"udp":true,"password":"9478e27c-6bdd-4f0e-ba46-90d9739e1e34","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵JP-20.18.40.90-1789","type":"trojan","server":"jp.mjt001.com","port":443,"udp":true,"password":"b00ac480-3e34-4ca9-8b3b-0b4515e4b75d","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US-66.135.20.94-1828","type":"trojan","server":"irancpi1.duckdns.org","port":443,"udp":true,"password":"a6e6b3e0-b8a7-4123-8ab4-573a9241a259","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵JP-20.18.40.90-2193","type":"trojan","server":"ru.mjt001.com","port":443,"udp":true,"password":"5a035db3-34ea-48ca-9aa2-72c8229e1532","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵JP-54.178.117.211-2692","type":"trojan","server":"jp3.421421.xyz","port":20230,"udp":true,"password":"717c3a16-6871-425c-a158-40cc37ff3543","sni":"421421.xyz","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬SG-4.193.35.112-3860","type":"trojan","server":"usa.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇦🇺AU-🇦🇺AU_22","type":"trojan","server":"awsjp.blowm1k.club","port":443,"udp":true,"password":"6ea0337d-ee2e-b495-0c0e-48db8524b39c","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇯🇵JP-🇯🇵JP_61","type":"trojan","server":"jp2.520748.xyz","port":10001,"udp":true,"password":"e9cbf46d-b166-4325-9d83-b197c2072e17","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US_242","type":"trojan","server":"fscus.fscloud123456789.com","port":443,"udp":true,"password":"514b8c92-12da-4219-b06c-56ecc67dfa23","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇺🇸US_245","type":"trojan","server":"tempest-us.aikun.online","port":443,"udp":true,"password":"11e247e5-136d-45f1-844a-a7f054d36bab","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇲🇾MY_260","type":"trojan","server":"my01.trojanyyds.xyz","port":443,"udp":true,"password":"ee20db28-0e13-4936-96b1-37bfa5244854","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"Relay_🇺🇸US-🇬🇧GB_262","type":"trojan","server":"kr.stablize.top","port":443,"udp":true,"password":"ed5a1734-aa35-4c79-bda2-6bf319c66cf7","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"b9fcf245-Trojan_gRPC","type":"trojan","server":"daysold.rnikjeh.shop","port":443,"udp":true,"password":"b9fcf245-60d6-4453-944e-048506610790","sni":"daysold.rnikjeh.shop","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"uyfdtrojangrpc"},"alpn":["h2"]}
+  - {"name":"daysold.rnikjeh.shop_Trojan","type":"trojan","server":"daysold.rnikjeh.shop","port":443,"udp":true,"password":"b9fcf245-60d6-4453-944e-048506610790","sni":"daysold.rnikjeh.shop","skip-cert-verify":true,"network":"tcp","alpn":["http/1.1"]}
+  - {"name":"tls_h2_WS_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"hh.norouzibrothers.works"}},"alpn":["h2"]}
+  - {"name":"tls_h2_grpc_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
+  - {"name":"tls_WS_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"hh.norouzibrothers.works"}},"alpn":["http/1.1"]}
+  - {"name":"tls_grpc_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_1","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["h2"]}
+  - {"name":"اوراکل2_2","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
+  - {"name":"اوراکل2_3","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_4","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_5","type":"trojan","server":"cip5.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["h2"]}
+  - {"name":"اوراکل2_6","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"tcp","ws-opts":{"headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["h2"]}
+  - {"name":"اوراکل2_7","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
+  - {"name":"اوراکل2_8","type":"trojan","server":"cip7.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_9","type":"trojan","server":"cip8.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"tcp","ws-opts":{"headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_10","type":"trojan","server":"cip5.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["h2"]}
+  - {"name":"اوراکل2_11","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
+  - {"name":"اوراکل2_12","type":"trojan","server":"cip7.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_13","type":"trojan","server":"cip8.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
+  - {"name":"🇫🇷FR_38","type":"ss","server":"149.202.82.172","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"🇫🇷FR_40","type":"ss","server":"149.202.82.172","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
   - {"name":"🇦🇺 AU_03 |12.01Mb","type":"vmess","server":"139.99.245.165","port":50002,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
   - {"name":"🇸🇬 SG_100 | 8.70Mb","type":"vmess","server":"8.219.216.27","port":2052,"cipher":"auto","uuid":"8ed9aec2-e02e-4a27-fe02-c3e20452e4c7","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"h4.mamadcucu.com"}}}
   - {"name":"Relay_🇫🇷FR-🇫🇷FR_505","type":"vmess","server":"51.89.74.241","port":51102,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
@@ -58,83 +105,76 @@ proxies:
   - {"name":"tls_h2_grpc_CDN_vmess_Fh","type":"vmess","server":"104.16.140.116","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hh.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
   - {"name":"tls_WS_CDN_vmess_Fh","type":"vmess","server":"104.16.140.116","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hh.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"hh.norouzibrothers.works"}}}
   - {"name":"tls_grpc_CDN_vmess_Fh","type":"vmess","server":"104.16.140.116","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"hh.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل2_1","type":"vmess","server":"brothers-p.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_2","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_3","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل2_4","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_5","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل2_6","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_7","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
-  - {"name":"اوراکل2_8","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_9","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
-  - {"name":"اوراکل2_10","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل2_11","type":"vmess","server":"cip7.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_12","type":"vmess","server":"cip8.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
-  - {"name":"اوراکل2_13","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_14","type":"vmess","server":"cip5.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_15","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل2_16","type":"vmess","server":"cip7.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل2_17","type":"vmess","server":"cip8.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"🇫🇷FR_38","type":"ss","server":"149.202.82.172","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-  - {"name":"🇫🇷FR_40","type":"ss","server":"149.202.82.172","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-  - {"name":"b9fcf245-vless_reality_grpc","type":"vless","server":"64.227.45.88","port":15915,"uuid":"b9fcf245-60d6-4453-944e-048506610790","tls":false,"servername":"daysold.rnikjeh.shop","network":"grpc"}
-  - {"name":"b9fcf245-vless_reality_vision","type":"vless","server":"64.227.45.88","port":15915,"uuid":"b9fcf245-60d6-4453-944e-048506610790","tls":false,"servername":"daysold.rnikjeh.shop","flow":"xtls-rprx-vision","network":"tcp"}
-  - {"name":"b9fcf245-vless_grpc","type":"vless","server":"daysold.rnikjeh.shop","port":443,"uuid":"b9fcf245-60d6-4453-944e-048506610790","tls":true,"servername":"daysold.rnikjeh.shop","network":"grpc"}
-  - {"name":"b9fcf245-VLESS_WS","type":"vless","server":"daysold.rnikjeh.shop","port":443,"uuid":"b9fcf245-60d6-4453-944e-048506610790","tls":true,"servername":"daysold.rnikjeh.shop","network":"ws","ws-opts":{"path":"/uyfdws","headers":{"host":"daysold.rnikjeh.shop"}}}
-  - {"name":"b9fcf245-VLESS_TCP/TLS_Vision","type":"vless","server":"daysold.rnikjeh.shop","port":443,"uuid":"b9fcf245-60d6-4453-944e-048506610790","tls":true,"servername":"daysold.rnikjeh.shop","flow":"xtls-rprx-vision","network":"tcp"}
-  - {"name":"reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works","type":"vless","server":"brothers-bp.norouzibrothers.works","port":443,"uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","tls":false,"servername":"substack.com","flow":"xtls-rprx-vision","network":"tcp"}
-  - {"name":"reality_grpc_direct_vless_brothers-bp.norouzibrothers.works","type":"vless","server":"brothers-bp.norouzibrothers.works","port":443,"uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","tls":false,"servername":"substack.com","network":"grpc"}
-  - {"name":"Relay_🇺🇸US-🇸🇬SG_248","type":"trojan","server":"sg.stablize.top","port":443,"udp":true,"password":"a3740de6-74fc-4ab6-bc85-92d19402257c","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US_249","type":"trojan","server":"aujs.stablize.top","port":443,"udp":true,"password":"c0cf56d4-08a7-4436-9e6a-3feebe142706","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇯🇵JP_250","type":"trojan","server":"vpnhat.stablize.top","port":443,"udp":true,"password":"de2804e0-b99d-47fa-9828-62f8247c8335","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇯🇵JP_251","type":"trojan","server":"fschk.fscloud123456789.com","port":443,"udp":true,"password":"38541d74-6ffd-4352-988d-715ee989947c","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇸🇬SG_261","type":"trojan","server":"fscsg.fscloud123456789.com","port":443,"udp":true,"password":"ed19b239-8e49-4b82-979a-24b84fa7b173","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇳CN-123.159.205.114-1338","type":"trojan","server":"zz6.91js.pw","port":10051,"udp":true,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇮🇩ID-103.253.24.216-1366","type":"trojan","server":"sg3-trojan.bonds.id","port":443,"udp":true,"password":"4c7985e0-79e8-11eb-b8d3-1239d0255272","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-1376","type":"trojan","server":"dejs.stablize.top","port":443,"udp":true,"password":"80151fd0-950a-4dda-a98a-6d24c6936dbc","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-1386","type":"trojan","server":"ap.stablize.top","port":443,"udp":true,"password":"10f94506-9bf9-4dbb-9542-3ff13893b190","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US-154.17.23.245-1392","type":"trojan","server":"listener.freetrade.link","port":443,"udp":true,"password":"Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-1399","type":"trojan","server":"in.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-1400","type":"trojan","server":"jp.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵JP-185.212.56.168-1403","type":"trojan","server":"tw.softbank.mjj-home.com","port":443,"udp":true,"password":"share.mjj-home.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇳🇱NL-147.78.240.92-1759","type":"trojan","server":"tj2.dalazhi.eu.org","port":443,"udp":true,"password":"23fd9f2e-7ff8-4d98-8099-8acce9499433","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-1777","type":"trojan","server":"uk.stablize.top","port":443,"udp":true,"password":"9478e27c-6bdd-4f0e-ba46-90d9739e1e34","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵JP-20.18.40.90-1789","type":"trojan","server":"jp.mjt001.com","port":443,"udp":true,"password":"b00ac480-3e34-4ca9-8b3b-0b4515e4b75d","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US-66.135.20.94-1828","type":"trojan","server":"irancpi1.duckdns.org","port":443,"udp":true,"password":"a6e6b3e0-b8a7-4123-8ab4-573a9241a259","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵JP-20.18.40.90-2193","type":"trojan","server":"ru.mjt001.com","port":443,"udp":true,"password":"5a035db3-34ea-48ca-9aa2-72c8229e1532","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇯🇵JP-54.178.117.211-2692","type":"trojan","server":"jp3.421421.xyz","port":20230,"udp":true,"password":"717c3a16-6871-425c-a158-40cc37ff3543","sni":"421421.xyz","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇸🇬SG-4.193.35.112-3860","type":"trojan","server":"usa.stablize.top","port":443,"udp":true,"password":"7d0f1f83-0f2f-4b90-930e-de44ac233fef","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇦🇺AU-🇦🇺AU_22","type":"trojan","server":"awsjp.blowm1k.club","port":443,"udp":true,"password":"6ea0337d-ee2e-b495-0c0e-48db8524b39c","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇯🇵JP-🇯🇵JP_61","type":"trojan","server":"jp2.520748.xyz","port":10001,"udp":true,"password":"e9cbf46d-b166-4325-9d83-b197c2072e17","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US_242","type":"trojan","server":"fscus.fscloud123456789.com","port":443,"udp":true,"password":"514b8c92-12da-4219-b06c-56ecc67dfa23","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇺🇸US_245","type":"trojan","server":"tempest-us.aikun.online","port":443,"udp":true,"password":"11e247e5-136d-45f1-844a-a7f054d36bab","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇲🇾MY_260","type":"trojan","server":"my01.trojanyyds.xyz","port":443,"udp":true,"password":"ee20db28-0e13-4936-96b1-37bfa5244854","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"Relay_🇺🇸US-🇬🇧GB_262","type":"trojan","server":"kr.stablize.top","port":443,"udp":true,"password":"ed5a1734-aa35-4c79-bda2-6bf319c66cf7","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"b9fcf245-Trojan_gRPC","type":"trojan","server":"daysold.rnikjeh.shop","port":443,"udp":true,"password":"b9fcf245-60d6-4453-944e-048506610790","sni":"daysold.rnikjeh.shop","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"uyfdtrojangrpc"},"alpn":["h2"]}
-  - {"name":"daysold.rnikjeh.shop_Trojan","type":"trojan","server":"daysold.rnikjeh.shop","port":443,"udp":true,"password":"b9fcf245-60d6-4453-944e-048506610790","sni":"daysold.rnikjeh.shop","skip-cert-verify":true,"network":"tcp","alpn":["http/1.1"]}
-  - {"name":"tls_h2_WS_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"hh.norouzibrothers.works"}},"alpn":["h2"]}
-  - {"name":"tls_h2_grpc_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
-  - {"name":"tls_WS_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"hh.norouzibrothers.works"}},"alpn":["http/1.1"]}
-  - {"name":"tls_grpc_CDN_trojan_Fh","type":"trojan","server":"104.16.140.116","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"hh.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_18","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["h2"]}
-  - {"name":"اوراکل2_19","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
-  - {"name":"اوراکل2_20","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_21","type":"trojan","server":"brothers-p.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_22","type":"trojan","server":"cip5.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["h2"]}
-  - {"name":"اوراکل2_23","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"tcp","ws-opts":{"headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["h2"]}
-  - {"name":"اوراکل2_24","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
-  - {"name":"اوراکل2_25","type":"trojan","server":"cip7.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_26","type":"trojan","server":"cip8.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-bp.norouzibrothers.works","skip-cert-verify":true,"network":"tcp","ws-opts":{"headers":{"host":"brothers-bp.norouzibrothers.works"}},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_27","type":"trojan","server":"cip5.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["h2"]}
-  - {"name":"اوراکل2_28","type":"trojan","server":"cip6.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["h2"]}
-  - {"name":"اوراکل2_29","type":"trojan","server":"cip7.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}},"alpn":["http/1.1"]}
-  - {"name":"اوراکل2_30","type":"trojan","server":"cip8.norouzibrothers.works","port":443,"udp":true,"password":"47b57682-3f68-4543-bf70-a1a6ea7e5556","sni":"brothers-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"},"alpn":["http/1.1"]}
+  - {"name":"اوراکل2_14","type":"vmess","server":"brothers-p.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_15","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_16","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل2_17","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_18","type":"vmess","server":"brothers-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل2_19","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_20","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
+  - {"name":"اوراکل2_21","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_22","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
+  - {"name":"اوراکل2_23","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل2_24","type":"vmess","server":"cip7.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-bp.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_25","type":"vmess","server":"cip8.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-bp.norouzibrothers.works","network":"tcp"}
+  - {"name":"اوراکل2_26","type":"vmess","server":"cip5.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_27","type":"vmess","server":"cip5.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_28","type":"vmess","server":"cip6.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل2_29","type":"vmess","server":"cip7.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"brothers-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل2_30","type":"vmess","server":"cip8.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"47b57682-3f68-4543-bf70-a1a6ea7e5556","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"brothers-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -172,64 +212,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -249,6 +235,53 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -286,64 +319,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -363,6 +342,53 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -400,64 +426,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -476,6 +448,53 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -513,64 +532,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -589,6 +554,53 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -626,64 +638,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -702,6 +660,53 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -739,64 +744,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
@@ -832,6 +783,53 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - Relay_🇺🇸US-🇸🇬SG_248
+      - 🇺🇸US_249
+      - Relay_🇺🇸US-🇯🇵JP_250
+      - Relay_🇺🇸US-🇯🇵JP_251
+      - Relay_🇺🇸US-🇸🇬SG_261
+      - 🇨🇳CN-123.159.205.114-1338
+      - 🇮🇩ID-103.253.24.216-1366
+      - 🇸🇬SG-4.193.35.112-1376
+      - 🇸🇬SG-4.193.35.112-1386
+      - 🇺🇸US-154.17.23.245-1392
+      - 🇸🇬SG-4.193.35.112-1399
+      - 🇸🇬SG-4.193.35.112-1400
+      - 🇯🇵JP-185.212.56.168-1403
+      - 🇳🇱NL-147.78.240.92-1759
+      - 🇸🇬SG-4.193.35.112-1777
+      - 🇯🇵JP-20.18.40.90-1789
+      - 🇺🇸US-66.135.20.94-1828
+      - 🇯🇵JP-20.18.40.90-2193
+      - 🇯🇵JP-54.178.117.211-2692
+      - 🇸🇬SG-4.193.35.112-3860
+      - Relay_🇦🇺AU-🇦🇺AU_22
+      - Relay_🇯🇵JP-🇯🇵JP_61
+      - 🇺🇸US_242
+      - Relay_🇺🇸US-🇺🇸US_245
+      - Relay_🇺🇸US-🇲🇾MY_260
+      - Relay_🇺🇸US-🇬🇧GB_262
+      - b9fcf245-Trojan_gRPC
+      - daysold.rnikjeh.shop_Trojan
+      - tls_h2_WS_CDN_trojan_Fh
+      - tls_h2_grpc_CDN_trojan_Fh
+      - tls_WS_CDN_trojan_Fh
+      - tls_grpc_CDN_trojan_Fh
+      - اوراکل2_1
+      - اوراکل2_2
+      - اوراکل2_3
+      - اوراکل2_4
+      - اوراکل2_5
+      - اوراکل2_6
+      - اوراکل2_7
+      - اوراکل2_8
+      - اوراکل2_9
+      - اوراکل2_10
+      - اوراکل2_11
+      - اوراکل2_12
+      - اوراکل2_13
+      - 🇫🇷FR_38
+      - 🇫🇷FR_40
       - 🇦🇺 AU_03 |12.01Mb
       - 🇸🇬 SG_100 | 8.70Mb
       - Relay_🇫🇷FR-🇫🇷FR_505
@@ -869,64 +867,10 @@ proxy-groups:
       - tls_h2_grpc_CDN_vmess_Fh
       - tls_WS_CDN_vmess_Fh
       - tls_grpc_CDN_vmess_Fh
-      - اوراکل2_1
-      - اوراکل2_2
-      - اوراکل2_3
-      - اوراکل2_4
-      - اوراکل2_5
-      - اوراکل2_6
-      - اوراکل2_7
-      - اوراکل2_8
-      - اوراکل2_9
-      - اوراکل2_10
-      - اوراکل2_11
-      - اوراکل2_12
-      - اوراکل2_13
       - اوراکل2_14
       - اوراکل2_15
       - اوراکل2_16
       - اوراکل2_17
-      - 🇫🇷FR_38
-      - 🇫🇷FR_40
-      - b9fcf245-vless_reality_grpc
-      - b9fcf245-vless_reality_vision
-      - b9fcf245-vless_grpc
-      - b9fcf245-VLESS_WS
-      - b9fcf245-VLESS_TCP/TLS_Vision
-      - reality_XTLS_direct_vless_brothers-bp.norouzibrothers.works
-      - reality_grpc_direct_vless_brothers-bp.norouzibrothers.works
-      - Relay_🇺🇸US-🇸🇬SG_248
-      - 🇺🇸US_249
-      - Relay_🇺🇸US-🇯🇵JP_250
-      - Relay_🇺🇸US-🇯🇵JP_251
-      - Relay_🇺🇸US-🇸🇬SG_261
-      - 🇨🇳CN-123.159.205.114-1338
-      - 🇮🇩ID-103.253.24.216-1366
-      - 🇸🇬SG-4.193.35.112-1376
-      - 🇸🇬SG-4.193.35.112-1386
-      - 🇺🇸US-154.17.23.245-1392
-      - 🇸🇬SG-4.193.35.112-1399
-      - 🇸🇬SG-4.193.35.112-1400
-      - 🇯🇵JP-185.212.56.168-1403
-      - 🇳🇱NL-147.78.240.92-1759
-      - 🇸🇬SG-4.193.35.112-1777
-      - 🇯🇵JP-20.18.40.90-1789
-      - 🇺🇸US-66.135.20.94-1828
-      - 🇯🇵JP-20.18.40.90-2193
-      - 🇯🇵JP-54.178.117.211-2692
-      - 🇸🇬SG-4.193.35.112-3860
-      - Relay_🇦🇺AU-🇦🇺AU_22
-      - Relay_🇯🇵JP-🇯🇵JP_61
-      - 🇺🇸US_242
-      - Relay_🇺🇸US-🇺🇸US_245
-      - Relay_🇺🇸US-🇲🇾MY_260
-      - Relay_🇺🇸US-🇬🇧GB_262
-      - b9fcf245-Trojan_gRPC
-      - daysold.rnikjeh.shop_Trojan
-      - tls_h2_WS_CDN_trojan_Fh
-      - tls_h2_grpc_CDN_trojan_Fh
-      - tls_WS_CDN_trojan_Fh
-      - tls_grpc_CDN_trojan_Fh
       - اوراکل2_18
       - اوراکل2_19
       - اوراکل2_20
