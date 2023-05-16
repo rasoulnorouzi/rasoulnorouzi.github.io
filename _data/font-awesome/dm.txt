@@ -1,3 +1,4 @@
+vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@socean.sandbad.live:2086?encryption=none&security=none&type=ws&path=%2F#rasoultest-0hbnm3sr
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=tcp&headerType=none#ama-xray-vision
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=ws&host=amazon.sandbad.live&path=%2Ffkiuws#ama-vless-ws
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFtYS12bWVzcy13cyIsDQogICJhZGQiOiAiYW1hem9uLnNhbmRiYWQubGl2ZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3MTI2Zjk2ZS1iOTM0LTQ3MGQtYWY1ZC01YzEzNzU0NWY1NWYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFtYXpvbi5zYW5kYmFkLmxpdmUiLA0KICAicGF0aCI6ICIvZmtpdXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhbWF6b24uc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
@@ -88,3 +89,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFzaS12bWVzcy13cyIsDQogICJhZGQiOiAiY2lw
 vless://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?encryption=none&security=tls&sni=asia.sandbad.live&type=grpc&serviceName=yccngrpc&mode=gun#asi-vless-grpc
 trojan://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?security=tls&sni=asia.sandbad.live&type=tcp&headerType=none#asi-trojan
 trojan://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?security=tls&sni=asia.sandbad.live&type=grpc&serviceName=yccntrojangrpc&mode=gun#asi-trojan-grpc
+vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=xtls&sni=hetzner.sandbad.live&type=tcp&headerType=none&host=hetzner.sandbad.live#het
+vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=xtls&sni=hetzner.sandbad.live&type=tcp&headerType=none&host=hetzner.sandbad.live#het
+vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=tls&sni=hetzner.sandbad.live&type=ws&host=hetzner.sandbad.live&path=%2Ffzxnws#het-vless-ws
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhldC12bWVzcy13cyIsDQogICJhZGQiOiAiaGV0em5lci5zYW5kYmFkLmxpdmUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDczNTljN2MtMDZlMi00NGQ4LWIzOTktMzY3NGI0NTMwMWE3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoZXR6bmVyLnNhbmRiYWQubGl2ZSIsDQogICJwYXRoIjogIi9menhudndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImhldHpuZXIuc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=tls&sni=hetzner.sandbad.live&alpn=h2&type=grpc&serviceName=fzxngrpc&mode=gun#het-vless-grpc
+trojan://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?security=tls&sni=hetzner.sandbad.live&alpn=http%2F1.1&type=tcp&headerType=none#het-trojan
+trojan://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?security=tls&sni=hetzner.sandbad.live&alpn=h2&type=grpc&serviceName=fzxntrojangrpc&mode=gun#het-trojan-grpc
