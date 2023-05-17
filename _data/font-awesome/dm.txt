@@ -1,16 +1,10 @@
-vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@socean.sandbad.live:2086?encryption=none&security=none&type=ws&path=%2F#rasoultest-0hbnm3sr
+vless://821267e3-88ea-43b1-90c5-d7302b158acb@a1.radinsafe.info:2086?encryption=none&security=none&type=ws&path=%2F#Bypass-Aylar%2Brabiei
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=tcp&headerType=none#ama-xray-vision
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=ws&host=amazon.sandbad.live&path=%2Ffkiuws#ama-vless-ws
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFtYS12bWVzcy13cyIsDQogICJhZGQiOiAiYW1hem9uLnNhbmRiYWQubGl2ZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3MTI2Zjk2ZS1iOTM0LTQ3MGQtYWY1ZC01YzEzNzU0NWY1NWYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFtYXpvbi5zYW5kYmFkLmxpdmUiLA0KICAicGF0aCI6ICIvZmtpdXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhbWF6b24uc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=grpc&serviceName=fkiugrpc&mode=gun#ama-vless-grpc
 trojan://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?security=tls&sni=amazon.sandbad.live&type=tcp&headerType=none#ama-trojan
 trojan://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?security=tls&sni=amazon.sandbad.live&type=grpc&serviceName=fkiutrojangrpc&mode=gun#ama-trojan-grpc
-vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=tcp&headerType=none#eur-xray-vision
-vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=ws&host=euro.sandbad.live&path=%2Fyauhws#eur-vless-ws
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImV1ci12bWVzcy13cyIsDQogICJhZGQiOiAiZXVyby5zYW5kYmFkLmxpdmUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODI4ZGJhNmUtNDFlMy00NDg2LThkNDQtNDA0OGVmMzIwMzkwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJldXJvLnNhbmRiYWQubGl2ZSIsDQogICJwYXRoIjogIi95YXVodndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImV1cm8uc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
-vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=grpc&serviceName=yauhgrpc&mode=gun#eur-vless-grpc
-trojan://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?security=tls&sni=euro.sandbad.live&type=tcp&headerType=none#eur-trojan
-trojan://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?security=tls&sni=euro.sandbad.live&type=grpc&serviceName=yauhtrojangrpc&mode=gun#eur-trojan-grpc
 vless://2a624319-8888-49f6-9742-ef2944ab985b@asia.sandbad.live:443?encryption=none&security=tls&sni=asia.sandbad.live&type=tcp&headerType=none#asi-xray-vision
 vless://2a624319-8888-49f6-9742-ef2944ab985b@asia.sandbad.live:443?encryption=none&security=tls&sni=asia.sandbad.live&type=ws&host=asia.sandbad.live&path=%2Fyccnws#asi-vless-ws
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFzaS12bWVzcy13cyIsDQogICJhZGQiOiAiYXNpYS5zYW5kYmFkLmxpdmUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmE2MjQzMTktODg4OC00OWY2LTk3NDItZWYyOTQ0YWI5ODViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhc2lhLnNhbmRiYWQubGl2ZSIsDQogICJwYXRoIjogIi95Y2NudndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImFzaWEuc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
@@ -89,6 +83,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFzaS12bWVzcy13cyIsDQogICJhZGQiOiAiY2lw
 vless://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?encryption=none&security=tls&sni=asia.sandbad.live&type=grpc&serviceName=yccngrpc&mode=gun#asi-vless-grpc
 trojan://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?security=tls&sni=asia.sandbad.live&type=tcp&headerType=none#asi-trojan
 trojan://2a624319-8888-49f6-9742-ef2944ab985b@cip8.norouzibrothers.works:443?security=tls&sni=asia.sandbad.live&type=grpc&serviceName=yccntrojangrpc&mode=gun#asi-trojan-grpc
+vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=tcp&headerType=none#eur-xray-vision
+vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=ws&host=euro.sandbad.live&path=%2Fyauhws#eur-vless-ws
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImV1ci12bWVzcy13cyIsDQogICJhZGQiOiAiZXVyby5zYW5kYmFkLmxpdmUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODI4ZGJhNmUtNDFlMy00NDg2LThkNDQtNDA0OGVmMzIwMzkwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJldXJvLnNhbmRiYWQubGl2ZSIsDQogICJwYXRoIjogIi95YXVodndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImV1cm8uc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?encryption=none&security=tls&sni=euro.sandbad.live&type=grpc&serviceName=yauhgrpc&mode=gun#eur-vless-grpc
+trojan://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?security=tls&sni=euro.sandbad.live&type=tcp&headerType=none#eur-trojan
+trojan://828dba6e-41e3-4486-8d44-4048ef320390@euro.sandbad.live:443?security=tls&sni=euro.sandbad.live&type=grpc&serviceName=yauhtrojangrpc&mode=gun#eur-trojan-grpc
 vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=xtls&sni=hetzner.sandbad.live&type=tcp&headerType=none&host=hetzner.sandbad.live#het
 vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=xtls&sni=hetzner.sandbad.live&type=tcp&headerType=none&host=hetzner.sandbad.live#het
 vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=tls&sni=hetzner.sandbad.live&type=ws&host=hetzner.sandbad.live&path=%2Ffzxnws#het-vless-ws
@@ -96,3 +96,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhldC12bWVzcy13cyIsDQogICJhZGQiOiAiaGV0
 vless://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?encryption=none&security=tls&sni=hetzner.sandbad.live&alpn=h2&type=grpc&serviceName=fzxngrpc&mode=gun#het-vless-grpc
 trojan://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?security=tls&sni=hetzner.sandbad.live&alpn=http%2F1.1&type=tcp&headerType=none#het-trojan
 trojan://07359c7c-06e2-44d8-b399-3674b45301a7@hetzner.sandbad.live:443?security=tls&sni=hetzner.sandbad.live&alpn=h2&type=grpc&serviceName=fzxntrojangrpc&mode=gun#het-trojan-grpc
+vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@socean.sandbad.live:2086?encryption=none&security=none&type=ws&path=%2F#rasoultest-0hbnm3sr
+vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@socean.sandbad.live:2086?encryption=none&security=none&type=ws&path=%2F#rasoultest-0hbnm3sr
+trojan://OxBeIm3U31@socean.sandbad.live:443?security=tls&sni=socen.sandbad.live&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#rasoultrojan-7rupqtt2
