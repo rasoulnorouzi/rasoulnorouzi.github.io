@@ -1,4 +1,3 @@
-vless://821267e3-88ea-43b1-90c5-d7302b158acb@a1.radinsafe.info:2086?encryption=none&security=none&type=ws&path=%2F#Bypass-Aylar%2Brabiei
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=tcp&headerType=none#ama-xray-vision
 vless://7126f96e-b934-470d-af5d-5c137545f55f@amazon.sandbad.live:443?encryption=none&security=tls&sni=amazon.sandbad.live&type=ws&host=amazon.sandbad.live&path=%2Ffkiuws#ama-vless-ws
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFtYS12bWVzcy13cyIsDQogICJhZGQiOiAiYW1hem9uLnNhbmRiYWQubGl2ZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3MTI2Zjk2ZS1iOTM0LTQ3MGQtYWY1ZC01YzEzNzU0NWY1NWYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFtYXpvbi5zYW5kYmFkLmxpdmUiLA0KICAicGF0aCI6ICIvZmtpdXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhbWF6b24uc2FuZGJhZC5saXZlIiwNCiAgImFscG4iOiAiIg0KfQ==
