@@ -1,5 +1,16 @@
+vless://848c4097-72af-46a5-e615-ac740d92a369@atl.rnikjeh.shop:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip1.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip2.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip3.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip4.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip5.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip6.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip7.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip8.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip9.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@cip10.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
+vless://848c4097-72af-46a5-e615-ac740d92a369@6atl.rnikjeh.shop:2086?encryption=none&security=none&type=ws&host=atl.rnikjeh.shop&path=%2F#atlantic_vless-po8ffslc
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@socean.sandbad.live:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
-vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip1.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip2.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip3.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip4.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
@@ -10,3 +21,4 @@ vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip8.norouzibrothers.works:2086?enc
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip9.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip10.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
 vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@6socean.sandbad.live:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
+vless://a38d3295-17d4-41b4-d1bc-151245b8a3cd@cip1.norouzibrothers.works:2086?encryption=none&security=none&type=ws&host=socean.sandbad.live&path=%2F#rasoultest-0hbnm3sr
