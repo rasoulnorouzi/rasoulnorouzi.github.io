@@ -1,11 +1,10 @@
 ####################################
 # 创建者：v2rayse.com
-# 客户端：Clash.Meta
-# 创建时间：16-06-2023 23:34:39
+# 客户端：Clash
+# 创建时间：16-06-2023 23:40:52
 # 使用模版：V2RaySE 默认模版
-# 节点数量：185
+# 节点数量：179
 ####################################
-# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -191,22 +190,16 @@ proxies:
   - {"name":"🇸🇬SG-3.0.183.226-0070","type":"ss","server":"3.0.183.226","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
   - {"name":"🇨🇳CN-111.47.212.56-13788","type":"trojan","server":"js04.balala2016.xyz","port":20261,"udp":true,"password":"ED177480-E516-11EA-8B44-BBC4E882BA0B","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇹🇼TW-114.37.195.93-13914","type":"trojan","server":"tw01.balala2016.xyz","port":20261,"udp":true,"password":"ED177480-E516-11EA-8B44-BBC4E882BA0B","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"اوراکل_1","type":"vless","server":"sohrab-p.norouzibrothers.works","port":443,"uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","tls":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc"}
-  - {"name":"لندن_ویلس","type":"vless","server":"139.59.185.249","port":18219,"uuid":"92450257-19b0-477b-99a6-db3bd9b98429","servername":"139.59.185.249","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"اوراکل_2","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل_3","type":"vless","server":"sohrab-p.norouzibrothers.works","port":443,"uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","tls":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/UjYGrA1IRPy5bABQfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل_4","type":"trojan","server":"sohrab-p.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل_5","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل_6","type":"vless","server":"sohrab-p.norouzibrothers.works","port":443,"uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","tls":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc"}
-  - {"name":"اوراکل_7","type":"trojan","server":"sohrab-p.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"}}
-  - {"name":"اوراکل_8","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل_واقعی_1","type":"vless","server":"sohrab-bp.norouzibrothers.works","port":443,"udp":true,"uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","tls":true,"servername":"substack.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"V_Wd5D-lE0GdTpH0-OkqKi-aDIOnAFi8fuPDEtW8Dxw","short-id":"53d40a09322e4c"}}
-  - {"name":"اوراکل_واقعی_2","type":"vless","server":"sohrab-bp.norouzibrothers.works","port":443,"udp":true,"uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","tls":true,"servername":"substack.com","network":"grpc","reality-opts":{"public-key":"V_Wd5D-lE0GdTpH0-OkqKi-aDIOnAFi8fuPDEtW8Dxw","short-id":"53d40a09322e4c"}}
-  - {"name":"اوراکل_9","type":"vmess","server":"cip2.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
-  - {"name":"اوراکل_10","type":"trojan","server":"cip3.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"}}
-  - {"name":"اوراکل_11","type":"vmess","server":"cip3.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
-  - {"name":"اوراکل_12","type":"vmess","server":"cip4.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-bp.norouzibrothers.works"}}}
-  - {"name":"اوراکل_13","type":"vmess","server":"cip4.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-bp.norouzibrothers.works","network":"tcp"}
+  - {"name":"اوراکل_1","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل_2","type":"trojan","server":"sohrab-p.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/tvRYmv5QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل_3","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل_4","type":"trojan","server":"sohrab-p.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"}}
+  - {"name":"اوراکل_5","type":"vmess","server":"sohrab-p.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل_6","type":"vmess","server":"cip2.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-p.norouzibrothers.works"}}}
+  - {"name":"اوراکل_7","type":"trojan","server":"cip3.norouzibrothers.works","port":443,"udp":true,"password":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","sni":"sohrab-p.norouzibrothers.works","skip-cert-verify":true,"network":"grpc","grpc-opts":{"grpc-service-name":"tvRYmv5TLYusyFp"}}
+  - {"name":"اوراکل_8","type":"vmess","server":"cip3.norouzibrothers.works","port":443,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"sohrab-p.norouzibrothers.works","network":"grpc","grpc-opts":{"grpc-service-name":"LvoWs2LEe0LcO2TLYusyFp","grpc-mode":"multi"}}
+  - {"name":"اوراکل_9","type":"vmess","server":"cip4.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-bp.norouzibrothers.works","network":"ws","ws-opts":{"path":"/LvoWs2LEe0LcO2QfWOrmTQgP4zMXn","headers":{"host":"sohrab-bp.norouzibrothers.works"}}}
+  - {"name":"اوراکل_10","type":"vmess","server":"cip4.norouzibrothers.works","port":80,"cipher":"chacha20-poly1305","uuid":"e3f15191-ecb7-448f-9b1c-73b79d30d9e1","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"sohrab-bp.norouzibrothers.works","network":"tcp"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -383,7 +376,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -391,13 +383,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -574,7 +561,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -582,13 +568,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -765,7 +746,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -773,13 +753,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: 📲 电报信息
     type: select
     proxies:
@@ -955,7 +930,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -963,13 +937,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -1145,7 +1114,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -1153,13 +1121,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1335,7 +1298,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -1343,13 +1305,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1542,7 +1499,6 @@ proxy-groups:
       - 🇨🇳CN-111.47.212.56-13788
       - 🇹🇼TW-114.37.195.93-13914
       - اوراکل_1
-      - لندن_ویلس
       - اوراکل_2
       - اوراکل_3
       - اوراکل_4
@@ -1550,13 +1506,8 @@ proxy-groups:
       - اوراکل_6
       - اوراکل_7
       - اوراکل_8
-      - اوراکل_واقعی_1
-      - اوراکل_واقعی_2
       - اوراکل_9
       - اوراکل_10
-      - اوراکل_11
-      - اوراکل_12
-      - اوراکل_13
 
 rules:
 # 本地/局域网地址
