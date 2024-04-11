@@ -13,7 +13,7 @@ Interests: Natural Language Processing, Recommender systems, Developing react we
 My tools and lovely friends: python, javascript, react, numpy, sklearn, Pytorch, Keras, flask, Node.js
 
 Contact:
-r[dot]norouzinikjeh[at]tilburguniversity[dot]edu
+r.norouzinikjeh@tilburguniversity.edu
 
 [google scholar](https://scholar.google.com/citations?user=syJhsDMAAAAJ&hl=en&oi=ao)
 
