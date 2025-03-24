@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {url: "https://rasoulnorouzi.github.io/cv.html", title: CV}
-  - {url: "", title: Software and Dataset}
+  - {url: "software-dataset.md", title: Software and Dataset}
 #   - {file: "blog.md", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
