@@ -3,7 +3,7 @@ title: "Software and Dataset"
 layout: page
 ---
 
-
+---
 ### 🧪 CESSC: Causal and Non-Causal Sentence Classification
 
 **CESSC** is a dataset and fine-tuned BERT-based model for binary classification of causal vs. non-causal sentences in social science texts.
@@ -40,3 +40,4 @@ layout: page
 
 **Supported Languages:**
 English, Persian, Spanish, French, Arabic, Korean, German, Italian, Russian, Turkish, Chinese (Simplified), Dutch
+---
