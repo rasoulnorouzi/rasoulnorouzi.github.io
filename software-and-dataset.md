@@ -8,9 +8,9 @@ layout: page
 
 **CESSC** is a dataset and fine-tuned BERT-based model for binary classification of causal vs. non-causal sentences in social science texts.
 
-- 📄 [Paper on arXiv](https://arxiv.org/abs/2403.02891)  
-- 🧠 [Fine-tuned BERT model on Hugging Face](https://huggingface.co/rasoulnorouzi/cessc-bert)  
-- 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/rasoulnorouzi/cessc)  
+- 📄 [Paper](https://www.cambridge.org/core/journals/research-synthesis-methods/article/capturing-causal-claims-a-finetuned-text-mining-model-for-extracting-causal-sentences-from-social-science-papers/E76E6EFB3373DE4FE6D9DCDB56271CEE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)  
+- 🧠 [Fine-tuned BERT model on Hugging Face](https://huggingface.co/rasoultilburg/ssc_bert)  
+- 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/rasoultilburg/ssc)  or [GitHub Page](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)
 - 💻 [GitHub Repository](https://github.com/rasoulnorouzi/cessc)
 
 **Contents:**
