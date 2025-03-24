@@ -26,7 +26,7 @@ layout: page
 **AI SRT Translator** is a browser-based tool that uses Google Gemini models to translate `.srt` subtitle files into multiple languages while preserving the original format and timing.
 
 - 🔗 [Live App](https://dry-disk-f14d.rasoulnorouzi.workers.dev/)  
-- 💻 [GitHub Repository](https://github.com/rasoulnorouzi/ai-srt-translator)
+- 💻 [GitHub Repository](https://github.com/rasoulnorouzi/srt-ai-translator)
 
 **Features:**
 - Translate `.srt` subtitle files using Gemini 1.5 / 2.0 models
