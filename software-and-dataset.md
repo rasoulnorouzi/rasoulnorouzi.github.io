@@ -1,6 +1,6 @@
 ---
 title: "Software and Dataset"
-layout: default
+layout: page
 ---
 
 # Software and Dataset
