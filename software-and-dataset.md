@@ -1,54 +1,51 @@
 ---
-title: "Software and Dataset"
+title: "Software and Datasets"
 layout: page
 ---
 
-## 🎓 Academic Projects
+## Academic Software and Datasets
 
-### 🧪 CESSC: Causal and Non-Causal Sentence Classification
+### CESSC: Causal and Non-Causal Sentence Classification
 
-**CESSC** is a dataset and fine-tuned BERT-based model for binary classification of causal vs. non-causal sentences in social science texts.
+The **CESSC** project provides a curated dataset and a fine-tuned BERT-based model for binary classification of causal and non-causal sentences within social science texts.
 
-- 📄 [Paper](https://www.cambridge.org/core/journals/research-synthesis-methods/article/capturing-causal-claims-a-finetuned-text-mining-model-for-extracting-causal-sentences-from-social-science-papers/E76E6EFB3373DE4FE6D9DCDB56271CEE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)  
-- 🧠 [Fine-tuned BERT model on Hugging Face](https://huggingface.co/rasoultilburg/ssc_bert)  
-- 📊 [Dataset on Hugging Face](https://huggingface.co/datasets/rasoultilburg/ssc) or [GitHub Page](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)  
-- 💻 [GitHub Repository](https://github.com/rasoulnorouzi/cessc)
+- 📄 [Published Article](https://www.cambridge.org/core/journals/research-synthesis-methods/article/capturing-causal-claims-a-finetuned-text-mining-model-for-extracting-causal-sentences-from-social-science-papers/E76E6EFB3373DE4FE6D9DCDB56271CEE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)  
+- 🧠 [Fine-tuned BERT Model (Hugging Face)](https://huggingface.co/rasoultilburg/ssc_bert)  
+- 📊 [Dataset: Hugging Face](https://huggingface.co/datasets/rasoultilburg/ssc) | [GitHub](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)  
+- 💻 [Source Code Repository](https://github.com/rasoulnorouzi/cessc)
 
-**Contents:**
-- 500 causal + 500 non-causal annotated sentences (main dataset)
-- 12,000 machine-labeled sentences (additional general dataset)
-- Fine-tuning code for BERT-based classification
-- Evaluation scripts and performance benchmarks
+**Dataset and Codebase Highlights:**
+- 1,000 manually annotated sentences (500 causal + 500 non-causal)
+- 12,000 machine-labeled sentences (supplementary general dataset)
+- Scripts for model fine-tuning and evaluation
+- Benchmarks and performance metrics included
 
 ---
 
-## 🧪 Fun & Practical Tools
+### AI SRT Translator: Gemini-Powered Subtitle Translation Tool
 
-### 🌍 AI SRT Translator – Gemini-Powered Subtitle Translator
+The **AI SRT Translator** is a browser-based application designed to translate `.srt` subtitle files into multiple languages using Google Gemini models, while preserving formatting and timing.
 
-**AI SRT Translator** is a browser-based tool that uses Google Gemini models to translate `.srt` subtitle files into multiple languages while preserving the original format and timing.
-
-- 🔗 [Live App](https://dry-disk-f14d.rasoulnorouzi.workers.dev/)  
+- 🔗 [Live Application](https://dry-disk-f14d.rasoulnorouzi.workers.dev/)  
 - 💻 [GitHub Repository](https://github.com/rasoulnorouzi/srt-ai-translator)
 
-**Features:**
-- Translate `.srt` subtitle files using Gemini 1.5 / 2.0 models
-- Fully client-side interface (built with Cloudflare Workers)
-- Supports multiple languages with model, temperature, and delay settings
-- Preserves subtitle structure (timestamps & numbering)
+**Key Features:**
+- Subtitle translation powered by Gemini 1.5/2.0 language models
+- Operates entirely on the client-side via Cloudflare Workers
+- Preserves original subtitle format (timestamps and numbering)
+- Adjustable translation settings (temperature, model type, delay)
 
 **Requirements:**
-- A valid Google Gemini API key  
-  → Instructions for generating it are included in the app interface
+- A valid Google Gemini API key (see app interface for setup instructions)
 
-**Supported Languages:**
+**Supported Languages:**  
 English, Persian, Spanish, French, Arabic, Korean, German, Italian, Russian, Turkish, Chinese (Simplified), Dutch
 
 ---
 
-## 🧪 Coming Soon...
+## Upcoming Projects
 
-Some upcoming projects include:
+Several tools and research resources are currently in development, including:
 
-- 🧭 **DAG Generator** – Automatically build directed acyclic graphs from causal texts  
-- 🧠 **Meta-Science RAG** – A customized retrieval-augmented generation agentic pipeline for theory-building in social science  
+- **DAG Generator**: Automated generation of directed acyclic graphs (DAGs) from causal texts  
+- **Meta-Science RAG**: A custom retrieval-augmented generation (RAG) pipeline for supporting theory-building in the social sciences
