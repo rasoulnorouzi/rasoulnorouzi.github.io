@@ -11,7 +11,7 @@ The **CESSC** project provides a curated dataset and a fine-tuned BERT-based mod
 
 - 📄 [Published Article](https://www.cambridge.org/core/journals/research-synthesis-methods/article/capturing-causal-claims-a-finetuned-text-mining-model-for-extracting-causal-sentences-from-social-science-papers/E76E6EFB3373DE4FE6D9DCDB56271CEE?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)  
 - 🧠 [Fine-tuned BERT Model (Hugging Face)](https://huggingface.co/rasoultilburg/ssc_bert)  
-- 📊 [Dataset: Hugging Face](https://huggingface.co/datasets/rasoultilburg/ssc) | [GitHub](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)  
+- 📊 [Dataset: Hugging Face](https://huggingface.co/datasets/rasoultilburg/ssc) or [GitHub](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)  
 - 💻 [Source Code Repository](https://github.com/rasoulnorouzi/cessc)
 
 **Dataset and Codebase Highlights:**
