@@ -18,3 +18,13 @@ r.norouzinikjeh@tilburguniversity.edu
 [google scholar](https://scholar.google.com/citations?user=syJhsDMAAAAJ&hl=en&oi=ao)
 
 [ORCID](https://orcid.org/0000-0002-4447-764X)
+
+---
+
+## Recent Activities
+
+- **[Publication]** "Capturing Causal Claims: A Fine-tuned Text Mining Model for Extracting Causal Sentences from Social Science Papers" published in *Research Synthesis Methods* *(2025)*
+- **[Talk]** Presented at the *European Conference on Research Methods* – "Using LLMs for Theory Extraction in Social Sciences" *(June 2025)*
+- **[Workshop]** Organized a hands-on workshop on *Graph Neural Networks for Social Science Research* at Tilburg University *(April 2025)*
+
+➡️ [See all news and activities](/news)
