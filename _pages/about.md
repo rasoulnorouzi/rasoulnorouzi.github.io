@@ -36,3 +36,4 @@ My research focuses on theory development and refinement in the social sciences 
 Research interests: natural language processing, causal text mining, recommender systems, graph neural networks, and AI-powered research tools.
 
 Tools I work with include Python, JavaScript, React, NumPy, scikit-learn, PyTorch, Keras, Flask, and Node.js.
+
