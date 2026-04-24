@@ -3,7 +3,7 @@ layout: page
 title: Research Tools in Progress
 description: DAG generation and Meta-Science RAG prototypes
 img: assets/img/project-thumbnails/research-tools.svg
-importance: 3
+importance: 5
 category: research
 ---
 
