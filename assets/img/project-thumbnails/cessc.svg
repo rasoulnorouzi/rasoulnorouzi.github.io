@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">CESSC project thumbnail</title>
+  <desc id="desc">Sentence classification interface with causal and non-causal labels.</desc>
+  <rect width="640" height="360" fill="#f4f7fb"/>
+  <rect x="56" y="48" width="528" height="264" rx="18" fill="#ffffff" stroke="#d8e1ee"/>
+  <rect x="92" y="86" width="456" height="28" rx="8" fill="#23395d"/>
+  <rect x="92" y="142" width="298" height="18" rx="6" fill="#b8c7d9"/>
+  <rect x="92" y="176" width="374" height="18" rx="6" fill="#d2dce8"/>
+  <rect x="92" y="210" width="250" height="18" rx="6" fill="#d2dce8"/>
+  <rect x="404" y="242" width="144" height="34" rx="17" fill="#1b998b"/>
+  <text x="476" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffffff">causal</text>
+  <circle cx="124" cy="259" r="18" fill="#f46036"/>
+  <path d="M124 247v24M112 259h24" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>
