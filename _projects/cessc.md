@@ -17,4 +17,4 @@ related_publications: true
 - [Dataset on GitHub](https://github.com/rasoulnorouzi/cessc/tree/main/datasets)
 - [Source code](https://github.com/rasoulnorouzi/cessc)
 
-Highlights include 1,000 manually annotated sentences, supplementary machine-labeled sentences, scripts for model fine-tuning and evaluation, and benchmark results.
+1,000 manually annotated sentences, supplementary machine-labeled sentences, scripts for model fine-tuning and evaluation, and benchmark results.
