@@ -2,6 +2,8 @@
 
 This repository contains the Jekyll source for <https://rasoulnorouzi.github.io/> using the al-folio theme.
 
+Your site is live at https://rasoulnorouzi.github.io.
+
 ## Quick Start: Run Locally
 
 ### Prerequisites
