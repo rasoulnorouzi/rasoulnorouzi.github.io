@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Research tools project thumbnail</title>
+  <desc id="desc">A research workflow connecting documents, retrieval, and causal graphs.</desc>
+  <rect width="640" height="360" fill="#eef4f3"/>
+  <rect x="70" y="78" width="130" height="174" rx="14" fill="#ffffff" stroke="#c8d8d5"/>
+  <rect x="255" y="64" width="130" height="202" rx="14" fill="#ffffff" stroke="#c8d8d5"/>
+  <rect x="440" y="96" width="130" height="138" rx="14" fill="#ffffff" stroke="#c8d8d5"/>
+  <circle cx="135" cy="288" r="22" fill="#ffbf69"/>
+  <circle cx="320" cy="288" r="22" fill="#2ec4b6"/>
+  <circle cx="505" cy="288" r="22" fill="#3d5a80"/>
+  <path d="M157 288h141M342 288h141" stroke="#6b7f7a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M194 144c44 0 44 48 88 48M378 190c44 0 44-46 88-46" fill="none" stroke="#3d5a80" stroke-width="5" stroke-linecap="round"/>
+  <rect x="96" y="112" width="78" height="10" rx="5" fill="#8fa8a3"/>
+  <rect x="96" y="140" width="64" height="10" rx="5" fill="#c2d2cf"/>
+  <rect x="280" y="106" width="82" height="10" rx="5" fill="#8fa8a3"/>
+  <rect x="280" y="134" width="72" height="10" rx="5" fill="#c2d2cf"/>
+  <rect x="464" y="132" width="82" height="10" rx="5" fill="#8fa8a3"/>
+  <rect x="464" y="160" width="66" height="10" rx="5" fill="#c2d2cf"/>
+</svg>
