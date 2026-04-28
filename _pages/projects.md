@@ -5,7 +5,7 @@ permalink: /projects/
 description: software, datasets, and research tools.
 nav: true
 nav_order: 3
-display_categories: [software, research]
+display_categories: [software, research, fun]
 horizontal: false
 ---
 
@@ -18,6 +18,8 @@ horizontal: false
         <i class="fa-solid fa-code"></i> {{ category }}
       {% elsif category == 'research' %}
         <i class="fa-solid fa-flask"></i> {{ category }}
+      {% elsif category == 'fun' %}
+        <i class="fa-solid fa-gamepad"></i> {{ category }}
       {% else %}
         {{ category }}
       {% endif %}

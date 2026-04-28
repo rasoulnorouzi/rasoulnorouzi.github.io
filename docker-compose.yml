@@ -19,3 +19,10 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+      - MAGICK_MEMORY_LIMIT=512MB
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 1G
