@@ -156,6 +156,7 @@ _styles: >
 {:.cv-section}
 
 <ol class="cv-publications">
+  <li><strong>Norouzi, R.</strong>, et al. (2026, June 3). Parsing Causal Relations in Social Science Publications. <em>PsyArXiv</em>. <a href="https://osf.io/preprints/psyarxiv/z2gdy_v1">Link</a>.</li>
   <li><strong>Norouzi, R.</strong>, Kleinberg, B., Van Lissa, C. J., &amp; Vermunt, J. (2024, April 10). Capturing Causal Claims: A Fine-Tuned Text Mining Model for Extracting Causal Sentences from Social Science Papers. <a href="https://www.cambridge.org/core/journals/research-synthesis-methods/article/capturing-causal-claims-a-finetuned-text-mining-model-for-extracting-causal-sentences-from-social-science-papers/E76E6EFB3373DE4FE6D9DCDB56271CEE?utm_campaign=shareaholic&amp;utm_medium=copy_link&amp;utm_source=bookmark">Link</a>.</li>
   <li>Joireman, J., Van Lissa, C. J., Van Lange, P. A. M., Kleinberg, B., <strong>Norouzi, R.</strong>, &amp; Balliet, D. (2024, April). A text mining systematic review of the social dilemma literature. <em>Psychological Bulletin</em>.</li>
   <li><strong>Norouzi, R.</strong>, Baziyad, H., Akhondzadeh, E., &amp; Albadvi, A. (2022). Developing tourism users profiles with data-driven explicit information. <a href="https://onlinelibrary.wiley.com/doi/10.1155/2022/6536908">Link</a>.</li>
