@@ -75,8 +75,7 @@ _styles: >
     <p class="cv-subtitle">Ph.D. Candidate in Social Science, Department of Methodology and Statistics, University of Tilburg, Netherlands</p>
   </div>
   <div class="cv-contact">
-    <a href="mailto:r.norouzinikjeh@tilburguniversity.edu">r.norouzinikjeh@tilburguniversity.edu</a><br>
-    <a href="{{ '/assets/pdf/rasoul_norouzi_cv.pdf' | relative_url }}">Download PDF CV</a>
+    <a href="mailto:r.norouzinikjeh@tilburguniversity.edu">r.norouzinikjeh@tilburguniversity.edu</a>
   </div>
 </div>
 
